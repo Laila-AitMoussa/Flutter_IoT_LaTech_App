@@ -3,7 +3,7 @@
 Welcome to the Flutter IoT LaTech App repository! This Flutter application allows you to control and monitor IoT devices seamlessly. You can remotely manage a LED, view real-time sensor data (Humidity, temperature, Water Level), and visualize the information conveniently through graphs and charts.
 
 <p align="center">
-    <img src="Weather_App.gif" width="700" height="500" />
+    <img src="LaTech_App.gif" width="700" height="500" />
 </p>
 
 ## Flutter Application
