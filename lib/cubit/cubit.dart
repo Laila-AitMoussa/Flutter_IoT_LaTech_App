@@ -122,7 +122,7 @@ class AppCubit extends Cubit<AppStates> {
     if (_isActive) {
       emit(JsonGet());
       var url = Uri.https('script.google.com',
-          'macros/s/AKfycbz1M26WjWGeKNJRHhUh_ht-2iH6oKgmczsHCNQjP-NmbHQnNOft0ky0PFRRaetcBcuaiA/exec');
+          'your GooogleSheet Url');
       var json = await http.get(url);
       values = jsonDecode(json.body);
       itemCount = values.length < 6 ? values.length : 6;
