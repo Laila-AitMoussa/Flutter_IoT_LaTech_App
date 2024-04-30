@@ -4,7 +4,7 @@ Welcome to the Flutter IoT LaTech App repository! This Flutter application allow
 
 <p align="center">
     <img src="Weather_App.gif" width="700" height="500" />
-</p>/>
+</p>
 
 ## Flutter Application
 
